@@ -1,4 +1,4 @@
-# anzhuo1
+# anzhuo1  作业demo以assignment_one and assignment_two and assignment 3~5为准。
 assignment_one里是第一次的gym版本：  
 1.策划栏设计  
 2.列表展示用到了listview和recyclerview两种  
